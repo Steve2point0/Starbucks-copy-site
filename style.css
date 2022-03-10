@@ -14,3 +14,18 @@
     color: #fff;
     background-color: #33433d;
 }
+
+.rightdiv1 {
+    height: 18rem;
+    width: 50vw;
+}
+
+.leftdiv2 {
+    width: 50vw;
+    height: 40rem;
+}
+
+.rightdiv2 {
+    color: #fff;
+    background-color: #33433d;
+}

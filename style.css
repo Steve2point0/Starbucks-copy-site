@@ -2,3 +2,15 @@
     color: #33433d;
 }
 
+.navhov :hover {
+    color: #00a862;
+}
+
+.navhover :hover{
+    color: #f2f0eb;
+}
+
+.leftdiv1 {
+    color: #fff;
+    background-color: #33433d;
+}

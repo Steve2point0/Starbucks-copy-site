@@ -17,15 +17,60 @@
 
 .rightdiv1 {
     height: 18rem;
-    width: 50vw;
+    width: 100%;
 }
 
 .leftdiv2 {
-    width: 50vw;
+    width: 100%;
     height: 40rem;
 }
 
 .rightdiv2 {
     color: #fff;
     background-color: #33433d;
+}
+
+.icedfont {
+    font-size: 4em;
+}
+
+.chill {
+    color: #fff;
+    background-color: #33433d;
+}
+
+.chillfont {
+    font-size: 4em;
+}
+
+.rightdiv3 {
+    width: 100%;
+    height: 40rem;
+}
+
+.leftdiv4 {
+    width: 100%;
+    height: 25rem;
+}
+
+.rightdiv4 {
+    background-color: #d4e9e2;
+}
+
+.leftdiv5 {
+    background-color: #d4e9e2;
+}
+
+.rightdiv5 {
+    width: 100%;
+    height: 25rem;
+}
+
+.leftdiv6 {
+    width: 100%;
+    height: 25rem;
+}
+
+.rightdiv6 {
+    background-color: #d4e9e2;
 }

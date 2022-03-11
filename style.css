@@ -36,7 +36,7 @@
 }
 
 .icedfont {
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .chill {
@@ -78,4 +78,8 @@
 
 .rightdiv6 {
     background-color: #d4e9e2;
+}
+
+.card-title {
+    font-size: 18px;
 }

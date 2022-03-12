@@ -3,4 +3,5 @@
 This is the front page made with Bootstrap. 
 
 I used css to adjust font sizes that Bootstrap doesn't offer. Also used css for the img sizes and background-color.
-![Screenshot 2022-03-11 at 12-54-10 Starbucks-copy-site](https://user-images.githubusercontent.com/43219209/157957353-8607a0f4-bc61-49e5-947d-e80b1ec50ac4.png)
+
+![Screenshot 2022-03-12 at 13-15-18 Starbucks-copy-site](https://user-images.githubusercontent.com/43219209/158031805-951fd872-cc77-4dff-af75-d619652e6ee7.png)
